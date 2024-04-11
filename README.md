@@ -1,12 +1,5 @@
-# CV
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Web Page</title>
-</head>
-<body>
+# NGUYEN NGOC TRA MY's CV
 
-    <img src="NGUYEN NGOC TRA MY cv new.jpg" alt="Curriculum Vitae" />
+This repository contains the CV of NGUYEN NGOC TRA MY.
 
-</body>
-</html>
+![NGUYEN NGOC TRA MY's CV](NGUYEN NGOC TRA MY cv new.jpg)
